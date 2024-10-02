@@ -27,3 +27,20 @@ To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/sathvikeppakayala/projects-basic-machinelearning.git
 cd projects-basic-machinelearning/email-spam-classifier
+
+email-spam-classifier/
+├── data/
+│   └── spam_data.csv       # Dataset used for training and testing
+├── models/
+│   └── spam_classifier.py   # Model training and evaluation script
+├── notebooks/
+│   └── exploratory_analysis.ipynb # Jupyter Notebook for exploratory data analysis
+├── requirements.txt         # Required Python packages
+└── README.md                # Project documentation
+
+
+pip install -r requirements.txt
+
+
+
+
