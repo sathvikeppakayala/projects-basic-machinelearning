@@ -41,6 +41,18 @@ email-spam-classifier/
 
 pip install -r requirements.txt
 
+python models/email_spam_detection_project_basic.py
 
+jupyter notebook notebooks/exploratory_analysis.ipynb
 
+```
+
+# Data
+### The dataset used for this project is spam_data.csv, which contains labeled examples of spam and non-spam emails. You can find similar datasets on platforms like Kaggle or the UCI Machine Learning Repository.
+
+# Contact
+### For any questions or feedback, feel free to reach out:
+
+- Your Name - eppakayalasathvik72@gmail.com
+- GitHub: sathvikeppakayala
 
